@@ -7,4 +7,4 @@ In this repository, I have used a dummy website to scrape data due to scraping r
 
 # Usage
 - You can download and open the python file on your preferred editor.
-- You can download and open the notebook on Jupyter Notebook or Google Colab['https://colab.research.google.com/notebooks/intro.ipynb'
+- You can download and open the notebook on Jupyter Notebook or (Google Colab)['https://colab.research.google.com/notebooks/intro.ipynb']
