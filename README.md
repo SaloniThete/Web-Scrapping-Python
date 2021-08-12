@@ -10,8 +10,8 @@ In this repository, I have used a dummy website to scrape data due to scraping r
 - You can download and open the notebook on Jupyter Notebook or [Google Colab]('https://colab.research.google.com/notebooks/intro.ipynb')
 
 # Steps to Scrape
-1. Insect the page
-2.Obtain HTML
+1.Insect the page
+1.Obtain HTML
 3.Choose a parser (lxml , html5lib , html.parser)
 4.Create a beautifulsoup object
 5.Extract tags that we need
