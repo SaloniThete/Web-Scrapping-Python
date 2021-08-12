@@ -24,7 +24,9 @@ The scrapers are different between one site and another.
 So, to use those scrapers, you have to change the value of base_site with the url desired, and identify tags to extract.
 
 # Packages Used
+'''python
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
+'''
 
