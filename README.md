@@ -18,3 +18,12 @@ In this repository, I have used a dummy website to scrape data due to scraping r
 6. Store the data in lists
 7. Make a dataframe
 8. Download a CSV file that contains all data scraped
+
+# Specifications
+The scrapers are different between one site and another. 
+So, to use those scrapers, you have to change the value of base_site with the url desired, and identify tags to extract.
+
+# Packages Used
+from bs4 import BeautifulSoup
+import requests
+import pandas as pd
