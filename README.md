@@ -27,3 +27,4 @@ So, to use those scrapers, you have to change the value of base_site with the ur
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
+
