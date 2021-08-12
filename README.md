@@ -25,8 +25,8 @@ So, to use those scrapers, you have to change the value of base_site with the ur
 
 # Packages Used
 
-**from bs4 import BeautifulSoup
-import requests
-import pandas as pd
-**
+1. from bs4 import BeautifulSoup
+2. import requests
+3. import pandas as pd
+
 
